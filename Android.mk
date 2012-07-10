@@ -1,3 +1,3 @@
-ifneq ($(filter primou,$(TARGET_DEVICE)),)
+ifneq ($(filter primoc,$(TARGET_DEVICE)),)
     include $(all-subdir-makefiles)
 endif
