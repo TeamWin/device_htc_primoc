@@ -26,7 +26,7 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product, build/target/product/full.mk)
 
 PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
-PRODUCT_NAME := htc_primoc
+PRODUCT_NAME := cm_primoc
 PRODUCT_DEVICE := primoc
 PRODUCT_BRAND := HTC
 PRODUCT_MODEL := primoc
